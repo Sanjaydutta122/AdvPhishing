@@ -1,10 +1,10 @@
 <?php
 
-$sender_name = 'name'; 
-$sender_mail = 'emai';
+$sender_name = 'Sanjay Dutta'; 
+$sender_mail = 'weedyboy.babu@gmail.com';
 $sender_pass = 'password';
 
-$receiver_name = 'name';
-$receiver_mail = 'emal';
+$receiver_name = 'Sanjay Dutta';
+$receiver_mail = 'sanjoydutta122@gmail.com';
 
 ?>
